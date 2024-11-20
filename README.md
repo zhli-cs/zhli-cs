@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm a first-year PhD student at Western University.
 <!--
 **LZH-053/LZH-053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
