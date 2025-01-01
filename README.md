@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm an incoming PhD student in computer science at Western University.
+I'm a first-year PhD student in computer science at Western University.
 <!--
 **LZH-053/LZH-053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
